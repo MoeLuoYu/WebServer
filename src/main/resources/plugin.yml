@@ -1,0 +1,4 @@
+name: WebServer
+version: '1.1'
+main: xyz.moeluoyu.webserver.Main
+authors: [ MoeLuoYu ]

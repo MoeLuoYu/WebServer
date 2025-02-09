@@ -1,0 +1,7 @@
+# Web端口
+port: 8080
+# 网站根目录
+WebSiteFolder: wwwroot
+# 记录连接日志
+# 注意：开启此选项会导致日志刷屏，请谨慎开启
+LogConnections: false
